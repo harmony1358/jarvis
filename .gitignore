@@ -1,3 +1,5 @@
 .venv
 .vscode
 API-KEY.TXT
+__pycache__
+server.ini
